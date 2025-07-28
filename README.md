@@ -3,11 +3,8 @@
 **Backend Developer | Java Enthusiast | System Design Explorer**
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/anshul-mangal-30/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/mangalanshul1998/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.linkedin.com/in/anshul-mangal-3646371a0/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anshulmangal" />
   </a>
 </p>
 
