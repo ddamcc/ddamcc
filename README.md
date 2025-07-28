@@ -3,12 +3,6 @@
 **Backend Developer | Java Enthusiast | System Design Explorer**
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/anshul-mangal-3646371a0/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anshulmangal" />
-  </a>
-</p>
-
-<p align="left"> 
   <a href="https://www.linkedin.com/in/anshul-mangal-30/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,10 +16,11 @@
 🔧 Passionate about building scalable backend systems and exploring the world of distributed architecture.
 
 - 💻 Currently working as ASDE-2 at **Publicis Sapient**
-- 🧠 Love solving problems using **DSA** and learning **System Design**
+- 🧠 Solved **600+ problems** on [LeetCode](https://leetcode.com/u/mangalanshul1998/)
 - ☕ Java is my comfort zone
 - 🧩 Exploring **Microservices**, **Spring Boot**, and **Cloud-native patterns**
-- 📫 Reach out at: mangalanshul1998@gmail.com
+- 🔐 Experience with **Spring Security**, **OAuth**, and secure backend design
+- 📫 Reach out at: mangalankit843@gmail.com
 
 ---
 
