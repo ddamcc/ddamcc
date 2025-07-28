@@ -3,7 +3,7 @@
 **Backend Developer | Java Enthusiast | System Design Explorer**
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/anshul-mangal-30/" target="blank">
+  <a href="https://www.linkedin.com/in/anshul-mangal-3646371a0/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anshulmangal" />
   </a>
 </p>
