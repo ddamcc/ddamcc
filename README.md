@@ -16,10 +16,11 @@
 
 - 💻 Currently working as ASDE-2 at **Publicis Sapient**
 - 🧠 Solved **600+ problems** on [LeetCode](https://leetcode.com/u/mangalanshul1998/)
-- ☕ Java is my comfort zone
+- ☕ I specialize in **Backend Development** using **Java**, **Spring Boot**
 - 🧩 Exploring **Microservices**, **Spring Boot**, and **Cloud-native patterns**
-- 🔐 Experience with **Spring Security**, **OAuth**, and secure backend design
-- 📫 Reach out at: mangalankit843@gmail.com
+- 🔐 Experience with **Spring Security**, and secure backend design
+- 🧠 Strong foundation in **System Design** and building scalable, maintainable architectures.
+- 📫 Reach out at: mangalanshul1998@gmail.com
 
 ---
 
